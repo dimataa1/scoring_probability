@@ -1,4 +1,4 @@
-#  NBA Shot Heatmaps
+#  NBA Players Shot Heatmaps
 
 This project visualizes **simulated shot frequency heatmaps** for NBA players such as Stephen Curry, LeBron James, and Kevin Durant. Using mathematical models and `Matplotlib`, it maps player shooting tendencies onto a FIBA-style basketball court.
 
